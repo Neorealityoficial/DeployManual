@@ -1,0 +1,4 @@
+Build/DeployManual.data filter=lfs diff=lfs merge=lfs -text
+Build/DeployManual.framework.fs filter=lfs diff=lfs merge=lfs -text
+Build/DeployManual.loader.fs filter=lfs diff=lfs merge=lfs -text
+Build/DeployManual.wasm filter=lfs diff=lfs merge=lfs -text
